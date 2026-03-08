@@ -78,7 +78,7 @@ urls <- list(
 )
 
 # in Ziel-Ausgabe-Ordner wechseln
-setwd("[...]/Projektarbeit/korpus/projekt-gutenberg")
+setwd("[...]/Projektarbeit/korpus/projekt-gutenberg/Kant")
 
 # Texte aus alle Quellen generieren
 for (name in names(urls)){
