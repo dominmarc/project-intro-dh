@@ -40,6 +40,7 @@ for(seg in segment_sizes){
         culling.max = cull,
         culling.incr = 1,
         delete.stop.words = FALSE,      # Funktionswörter behalten
+        preserve.case = TRUE,           # Groß-/Klein behalten
         write.png.file = TRUE,          # als PNG ausgeben
         gui = FALSE                     # GUI nicht öffnen
       )
