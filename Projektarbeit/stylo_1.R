@@ -31,6 +31,8 @@ for(seg in segment_sizes){
         corpus.lang = "German",
         analysis.type = type,           # Analyse-Typ
         distance.measure = "delta",     # Burrows’ Delta
+        # distance.measure = "wurzburg",     # Cosine Delta
+        # distance.measure = "argamon",      # Argamons Delta
         sample.size = seg,              # in Segmente mit X Wörtern teilen
         sampling = "normal.sampling",   # Samples der Teile erstellen
         mfw.min = 100,
