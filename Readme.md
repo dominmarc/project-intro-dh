@@ -12,25 +12,25 @@ Die vorliegende Arbeit untersucht aus syntaktischer Perspektive die Plausibilit�
 
 #### Abkürzungen der Titel
 
-_o = "original", original
+_o = "original", original<br>
 _c = "corrected", orthographisch korrigiert, modernisiert
 
 ##### Kant
-kpv = Kritik der praktischen Vernunft
-krv = Kritik der reinen Vernunft
-ku = Kritik der Urteilskraft
-mds = Die Metaphysik der Sitten
-gms = Grundlegung zur Metaphysik der Sitten
-prol = Prolegomena zu einer jeden künftigen Metaphysik die als Wissenschaft wird auftreten können
-grundTheoMoral = Untersuchung über die Deutlichkeit der Grundsätze der natürlichen Theologie und der Moral
-gefuehlSchErh = Beobachtungen über das Gefühl des Schönen und Erhabenen
+kpv = Kritik der praktischen Vernunft<br>
+krv = Kritik der reinen Vernunft<br>
+ku = Kritik der Urteilskraft<br>
+mds = Die Metaphysik der Sitten<br>
+gms = Grundlegung zur Metaphysik der Sitten<br>
+prol = Prolegomena zu einer jeden künftigen Metaphysik die als Wissenschaft wird auftreten können<br>
+grundTheoMoral = Untersuchung über die Deutlichkeit der Grundsätze der natürlichen Theologie und der Moral<br>
+gefuehlSchErh = Beobachtungen über das Gefühl des Schönen und Erhabenen<br>
 
 ##### Schiller
-zsmThierGeist = Über den Zusammenhang der thierischen Natur des Menschen mit seiner geistigen
-betrAestGeg = Zerstreute Betrachtungen über verschiedene ästhetische Gegenstände
-physiol = Philosophie der Physiologie
-anmuth = Über Anmuth und Würde
-pathet = Über das Pathetische
-erhaben = Über das Erhabene
-vergnTragGeg = Über den Grund des Vergnügens an tragischen Gegenständen
+zsmThierGeist = Über den Zusammenhang der thierischen Natur des Menschen mit seiner geistigen<br>
+betrAestGeg = Zerstreute Betrachtungen über verschiedene ästhetische Gegenstände<br>
+physiol = Philosophie der Physiologie<br>
+anmuth = Über Anmuth und Würde<br>
+pathet = Über das Pathetische<br>
+erhaben = Über das Erhabene<br>
+vergnTragGeg = Über den Grund des Vergnügens an tragischen Gegenständen<br>
 grenzForm = Über die nothwendigen Grenzen beim Gebrauch schöner Formen
