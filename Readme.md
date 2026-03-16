@@ -26,6 +26,8 @@ grundTheoMoral = Untersuchung über die Deutlichkeit der Grundsätze der natürl
 gefuehlSchErh = Beobachtungen über das Gefühl des Schönen und Erhabenen<br>
 
 ##### Schiller
+erz = Über die ästhetische Erziehung des Menschen in einer Reihe von Briefen<br>
+naiv = Über naive und sentimentalische Dichtung<br>
 zsmThierGeist = Über den Zusammenhang der thierischen Natur des Menschen mit seiner geistigen<br>
 betrAestGeg = Zerstreute Betrachtungen über verschiedene ästhetische Gegenstände<br>
 physiol = Philosophie der Physiologie<br>
