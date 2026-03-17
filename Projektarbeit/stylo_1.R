@@ -1,7 +1,7 @@
 library(stylo)
 library(dplyr)
 
-# Deine Einstellungen
+# Variationen
 segment_sizes <- c(3000, 5000, 7000)
 culling_values <- c(0, 20, 50)
 

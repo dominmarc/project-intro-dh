@@ -11,19 +11,29 @@ read_xml_analyze_top <- function(doc_names, t_type) {
   doc_id <- doc_names[[1]]
   
   topWords <- doc_names %>%
+    # append file type
     str_c(".tcf.xml") %>% 
+    # read words from XML
     lapply(function(f) {
       doc <- read_xml(f)
       xml_find_all(doc, str_c(".//d3:", t_type), ns = xml_ns(doc)) %>% 
         xml_text()
     }) %>%
+    # vectorize
     unlist() %>%
+    # create table (tibble)
     tibble(word = .) %>%
+    # min length = 5
     filter(stringi::stri_length(word) >= 5) %>%
+    # avoid special characters
     filter(!str_detect(word, "^[.,;:!?()\\[\\]{}\"'—–-]+$")) %>%
+    # count words and sort dsc
     count(word, sort = TRUE) %>%
+    # TOP 150 of counted words
     slice_head(n = 150) %>% 
+    # add rank for better visualization
     mutate(rank = row_number()) %>% 
+    # get created columns
     select(rank, word, n)
   
   # save top word results in global variable with doc related key
