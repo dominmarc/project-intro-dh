@@ -148,3 +148,27 @@
 148	19	freyen
 149	19	ganzen
 150	19	menschlichen
+
+==============================
+Overlap with: kant_pvernunft_1788_token
+Number of shared MFW: 35
+Words:
+nicht, durch, Natur, werden, einer, einem, einen, Freyheit, welche, Vernunft, haben, keine, zugleich, nichts, ihrer, machen, Erfahrung, unter, indem, Begriff, Nothwendigkeit, alles, etwas, macht, eines, nothwendig, welches, immer, allein, aller, dadurch, Willen, unmittelbar, jener, allen
+
+==============================
+Overlap with: kant_urtheilskraft_1790_token
+Number of shared MFW: 40
+Words:
+nicht, durch, Natur, werden, einer, einem, einen, Freyheit, welche, Vernunft, haben, keine, zugleich, nichts, ihrer, machen, Erfahrung, ihren, unter, indem, andern, giebt, alles, etwas, macht, Einheit, eines, nothwendig, welches, geben, immer, allein, aller, dadurch, entweder, keinen, Einbildungskraft, jener, allen, einander
+
+==============================
+Overlap with: kant_rvernunft_1781_token
+Number of shared MFW: 42
+Words:
+nicht, durch, Natur, werden, einer, einem, einen, welche, Vernunft, haben, keine, zugleich, nichts, ihrer, machen, Erfahrung, Materie, ihren, unter, indem, andern, Begriff, giebt, Nothwendigkeit, alles, etwas, macht, Einheit, eines, nothwendig, welches, geben, immer, allein, aller, dadurch, Sinnlichkeit, keinen, anders, wirklich, allen, einander
+
+==============================
+Overlap with: schiller_naive01_1795_token
+Number of shared MFW: 60
+Words:
+nicht, durch, Natur, werden, einer, einem, einen, Freyheit, welche, Vernunft, haben, Wahrheit, keine, zugleich, nichts, ihrer, machen, Erfahrung, gegen, beyden, ihren, unter, Leben, indem, andern, Begriff, giebt, Empfindung, Nothwendigkeit, alles, beyde, etwas, macht, eines, Wirklichkeit, Charakter, nothwendig, welches, geben, immer, allein, aller, findet, Stoff, ihrem, Ganzen, Grenzen, Kultur, entweder, einzelnen, wenig, jeder, Gattung, anders, wirklich, Einbildungskraft, jener, wieder, allen, einander

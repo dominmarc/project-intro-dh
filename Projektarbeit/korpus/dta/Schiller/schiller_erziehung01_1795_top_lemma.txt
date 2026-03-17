@@ -148,3 +148,27 @@
 148	21	Erkenntnis
 149	21	Gattung
 150	21	Grundsatz
+
+==============================
+Overlap with: kant_pvernunft_1788_lemma
+Number of shared MFW: 78
+Words:
+werden, seine, nicht, diese, können, durch, Mensch, haben, müssen, Natur, welche, keine, machen, sollen, unsere, Freiheit, geben, selbst, Vernunft, Gesetz, dieselbe, moralisch, schon, ander, nichts, Begriff, zugleich, Erfahrung, indem, finden, notwendig, Leben, dürfen, setzen, sondern, Realität, Verstand, sinnlich, unter, wollen, lassen, wirklich, Gegenstand, etwas, Gefühl, Notwendigkeit, Bedürfnis, Vermögen, Erscheinung, Wesen, Objekt, Person, Willen, solch, unmittelbar, Bestimmung, bleiben, immer, Dasein, dadurch, eigen, gleich, allein, bringen, mögen, andere, bestimmen, letztere, diejenige, kommen, Wirkung, allgemein, beweisen, denken, Bedingung, überhaupt, Erkenntnis, Grundsatz
+
+==============================
+Overlap with: kant_urtheilskraft_1790_lemma
+Number of shared MFW: 80
+Words:
+werden, seine, nicht, diese, können, durch, Mensch, haben, müssen, Natur, welche, keine, machen, Schönheit, beide, sollen, unsere, Freiheit, geben, selbst, ästhetisch, Vernunft, Gesetz, dieselbe, moralisch, ander, nichts, Begriff, zugleich, Erfahrung, Kunst, indem, finden, notwendig, setzen, sondern, Empfindung, Materie, nehmen, Verstand, unter, wollen, lassen, schön, Gegenstand, etwas, Gefühl, Gemüt, Einheit, Vermögen, Wesen, Objekt, heißen, solch, Bestimmung, immer, dadurch, eigen, führen, gleich, Geschmack, Spiel, allein, bringen, sehen, mögen, andere, bestimmen, bestimmt, inner, letztere, Schöne, diejenige, Wirkung, allgemein, beweisen, denken, Bedingung, überhaupt, Erkenntnis
+
+==============================
+Overlap with: kant_rvernunft_1781_lemma
+Number of shared MFW: 81
+Words:
+werden, seine, nicht, diese, können, durch, haben, müssen, Natur, welche, keine, machen, beide, sollen, unsere, geben, selbst, Zustand, Vernunft, Gesetz, dieselbe, schon, ander, nichts, Begriff, zugleich, Erfahrung, indem, finden, notwendig, absolut, setzen, sondern, Materie, nehmen, Realität, Verstand, sinnlich, unter, wollen, lassen, wirklich, Gegenstand, etwas, Notwendigkeit, Einheit, Erscheinung, Wesen, Objekt, Grenze, heißen, solch, Bestimmung, bleiben, immer, Dasein, dadurch, gleich, stehen, allein, bringen, sehen, gehen, mögen, andere, bestimmen, inner, letztere, wissen, Sinnlichkeit, diejenige, Wirkung, allgemein, beweisen, denken, Bedingung, äußer, überhaupt, Denken, Erkenntnis, Grundsatz
+
+==============================
+Overlap with: schiller_naive01_1795_lemma
+Number of shared MFW: 102
+Words:
+werden, seine, nicht, diese, können, durch, Mensch, haben, müssen, Natur, welche, keine, machen, beide, sollen, unsere, Freiheit, geben, selbst, Zustand, Kraft, ästhetisch, Menschheit, Vernunft, Gesetz, dieselbe, moralisch, schon, Wahrheit, ander, nichts, Begriff, zugleich, Erfahrung, Kunst, indem, Geist, einzeln, finden, notwendig, Leben, gegen, absolut, dürfen, setzen, sondern, Empfindung, nehmen, Verstand, sinnlich, unter, wollen, lassen, schön, wirklich, Charakter, Gegenstand, etwas, Ganze, Gefühl, Gemüt, Notwendigkeit, sobald, Bedürfnis, Stoff, Wirklichkeit, Objekt, Grenze, solch, bleiben, immer, eigen, führen, gleich, menschlich, stehen, unendlich, Spiel, bringen, sehen, Ideal, gehen, mögen, vollkommen, andere, bestimmen, bestimmt, entweder, inner, letztere, wissen, zwischen, Kultur, diejenige, kommen, suchen, wenig, beweisen, demselben, äußer, überhaupt, Gattung
